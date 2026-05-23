@@ -5,7 +5,7 @@ Este repositorio centraliza las actividades correspondientes a la **Tercera Unid
 Aquí se organizarán las tareas, ejercicios prácticos, hojas de trabajo y material de apoyo de las áreas de:
 
 - **Computación**
-- **Laboratorio**
+- **Programación**
 - **Robótica**
 
 El objetivo es que los estudiantes puedan seguir instrucciones claras, entregar sus actividades de forma ordenada y desarrollar habilidades tecnológicas, lógicas y prácticas.
@@ -78,7 +78,7 @@ Nombre completo - 2do Básico - Nombre de la tarea
 
 ---
 
-## 2. Laboratorio
+## 2. Programación
 
 ### Modalidad
 
@@ -110,7 +110,7 @@ Las tareas escritas o de análisis realizadas a mano deberán entregarse en **ho
 - Sección.
 - Fecha.
 - Nombre de la práctica.
-- Área: Laboratorio.
+- Área: Programación.
 
 ### Importante
 
@@ -205,39 +205,12 @@ Las hojas de trabajo de Robótica deberán entregarse en **hojas oficio**, bien 
 |---|---|---|---|
 | Computación | Tablas, ejercicios y prácticas digitales | Google Sheets | Enviar por correo electrónico a edwinjosegabriel@gmail.com |
 | Computación | Tareas escritas o ejercicios a mano | Hojas oficio | Entregar físicamente, bien identificadas |
-| Laboratorio | Pruebas de código en Python | Google Colab | Compartir según indicaciones del catedrático |
-| Laboratorio | Análisis o tareas a mano | Hojas oficio | Entregar físicamente, bien identificadas |
+| Programación | Pruebas de código en Python | Google Colab | Compartir según indicaciones del catedrático |
+| Programación | Análisis o tareas a mano | Hojas oficio | Entregar físicamente, bien identificadas |
 | Robótica | Hojas de trabajo de MRU y Fuerza | Hojas oficio | Entregar físicamente, bien identificadas |
 
 ---
 
-# Correo de entrega
-
-Las tareas digitales deberán enviarse al siguiente correo:
-
-**edwinjosegabriel@gmail.com**
-
-## Asunto recomendado
-
-```text
-Nombre completo - 2do Básico - Nombre de la tarea
-```
-
-## Mensaje recomendado
-
-```text
-Buen día, envío la tarea correspondiente a la Tercera Unidad.
-
-Nombre:
-Grado:
-Sección:
-Área:
-Nombre de la tarea:
-
-Muchas gracias.
-```
-
----
 
 # Recordatorio final
 
