@@ -11,6 +11,17 @@ Aquí se organizarán las tareas, ejercicios prácticos, hojas de trabajo y mate
 El objetivo es que los estudiantes puedan seguir instrucciones claras, entregar sus actividades de forma ordenada y desarrollar habilidades tecnológicas, lógicas y prácticas.
 
 ---
+# 📌 Tareas a entregar
+
+| No. | Tarea | Fecha de entrega |
+|---|---|---|
+| 1 | Control de pequeño negocio | 5/6/2026 |
+| 2 | Control de proyecto escolar | 5/6/2026 |
+| 3 | Práctica 1 - Simulador de inicio de sesión | 3/6/2026 |
+| 4 | Hoja de trabajo de movimiento | 5/6/2026 |
+
+> Las tareas deben entregarse en la fecha indicada.
+---
 
 # Instructivo General del Curso – 2do Básico
 
