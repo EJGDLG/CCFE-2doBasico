@@ -19,7 +19,11 @@ El objetivo es que los estudiantes puedan seguir instrucciones claras, entregar 
 | 2 | Control de proyecto escolar | 5/6/2026 |
 | 3 | Práctica 1 - Simulador de inicio de sesión | 3/6/2026 |
 | 4 | Hoja de trabajo de movimiento | 5/6/2026 |
-
+| 5 | TABLA1- CONTROL DE SALARIO | 12/6/2026 |
+| 6 | TABLA2- INVENTARIO Y VENTAS | 12/6/2026 |
+| 7 | Hoja de trabajo de movimiento MRU2 | 12/6/2026 |
+| 8 | Practica 2 control de clasificador | 17/6/2026 |
+| 9 | Practica 3 sistema de Notas| 19/6/2026 |
 > Las tareas deben entregarse en la fecha indicada.
 ---
 
