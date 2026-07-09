@@ -1,4 +1,5 @@
-# CCFE-2doBásico - TERCERA UNIDAD
+# Para el examen solo tienen que estudiar sus tareas que eatan aqui
+## CCFE-2doBásico - TERCERA UNIDAD
 
 Este repositorio centraliza las actividades correspondientes a la **Tercera Unidad** del ciclo escolar para los estudiantes de **Segundo Básico**.
 
