@@ -1,0 +1,51 @@
+Fórmulas principales del MRUV
+1. Velocidad final
+
+Se utiliza cuando conocemos:
+
+Vi
+a
+t
+
+Fórmula:
+
+Vf = Vi + a·t
+
+2. Distancia recorrida
+
+Se utiliza cuando conocemos:
+
+Vi
+a
+t
+
+Fórmula:
+
+d = Vi·t + (a·t²)/2
+
+3. Velocidad sin utilizar el tiempo
+
+Se utiliza cuando conocemos:
+
+Vi
+a
+d
+
+Fórmula:
+
+Vf² = Vi² + 2ad
+
+4. Distancia usando velocidad promedio
+
+Cuando ya conocemos Vi y Vf.
+
+Fórmula:
+
+d = ((Vi + Vf)/2) · t
+
+Unidades del Sistema Internacional
+Magnitud	Unidad
+Distancia	metro (m)
+Tiempo	segundo (s)
+Velocidad	metro por segundo (m/s)
+Aceleración	metro por segundo al cuadrado (m/s²)

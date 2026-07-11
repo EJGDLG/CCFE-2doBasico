@@ -1,0 +1,81 @@
+Hoja de apoyo – Conceptos y fórmulas de MRUV para Robótica
+Conceptos básicos
+1. Movimiento
+
+Es el cambio de posición de un objeto con respecto al tiempo.
+
+Ejemplo en robótica: Un robot avanza desde el punto A hasta el punto B.
+
+2. Trayectoria
+
+Es el camino que sigue un objeto al desplazarse.
+
+Ejemplo: La línea negra que sigue un robot seguidor de línea.
+
+3. Distancia (d o x)
+
+Es el espacio recorrido por un objeto.
+
+Unidad: metros (m)
+
+Ejemplo: Un robot recorre 20 metros.
+
+4. Tiempo (t)
+
+Es el tiempo que tarda un objeto en realizar un movimiento.
+
+Unidad: segundos (s)
+
+5. Velocidad Inicial (Vi)
+
+Es la velocidad con la que inicia el movimiento.
+
+También puede encontrarse como:
+
+Vo
+V₀
+
+Unidad: metros por segundo (m/s)
+
+Ejemplo:
+Un robot comienza moviéndose a 3 m/s.
+
+6. Velocidad Final (Vf)
+
+Es la velocidad al finalizar el movimiento.
+
+Unidad: m/s
+
+7. Aceleración (a)
+
+Es el cambio de velocidad por unidad de tiempo.
+
+Si aumenta la velocidad:
+
+Aceleración positiva (+)
+
+Si disminuye la velocidad:
+
+Aceleración negativa (-)
+
+También llamada desaceleración.
+
+Unidad:
+
+m/s²
+
+8. Reposo
+
+Cuando un objeto tiene velocidad inicial igual a cero.
+
+Vi = 0 m/s
+
+Muchos problemas de robótica comienzan desde el reposo.
+
+9. Frenado
+
+Cuando la aceleración es negativa.
+
+Ejemplo:
+
+a = -2 m/s²
